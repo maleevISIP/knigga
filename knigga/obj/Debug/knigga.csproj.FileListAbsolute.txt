@@ -1,0 +1,7 @@
+C:\Users\vinchi\Desktop\прога\ооп3\спизженка_книгга\knigga\knigga\bin\Debug\knigga.exe.config
+C:\Users\vinchi\Desktop\прога\ооп3\спизженка_книгга\knigga\knigga\bin\Debug\knigga.exe
+C:\Users\vinchi\Desktop\прога\ооп3\спизженка_книгга\knigga\knigga\bin\Debug\knigga.pdb
+C:\Users\vinchi\Desktop\прога\ооп3\спизженка_книгга\knigga\knigga\obj\Debug\knigga.csprojAssemblyReference.cache
+C:\Users\vinchi\Desktop\прога\ооп3\спизженка_книгга\knigga\knigga\obj\Debug\knigga.csproj.CoreCompileInputs.cache
+C:\Users\vinchi\Desktop\прога\ооп3\спизженка_книгга\knigga\knigga\obj\Debug\knigga.exe
+C:\Users\vinchi\Desktop\прога\ооп3\спизженка_книгга\knigga\knigga\obj\Debug\knigga.pdb
